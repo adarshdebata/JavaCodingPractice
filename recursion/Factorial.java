@@ -1,3 +1,4 @@
+package recursion;
 
 public class Factorial {
     long factorial (long num){
