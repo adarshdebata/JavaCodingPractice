@@ -1,3 +1,7 @@
+/*
+Sum of Cube of  digit = orignal
+*/
+
 import java.lang.Math;
 import java.util.Scanner;
 public class ArmstrongNumber {
