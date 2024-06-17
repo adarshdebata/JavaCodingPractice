@@ -1,5 +1,5 @@
 /*
-Sum of Cube of  digit = orignal
+Sum of Cube of  digit = orignal/input
 */
 
 import java.lang.Math;
