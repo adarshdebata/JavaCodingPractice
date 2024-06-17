@@ -27,6 +27,14 @@ Basic Java programming concepts including syntax, control structures, and data t
 - [ArrayExample.java](fundamentals/ArrayExample.java)
 - [MethodsExample.java](fundamentals/MethodsExample.java)
 - [ClassesAndObjects.java](fundamentals/ClassesAndObjects.java) -->
+## Recursion
+
+Functions that call themselves to solve problems.
+
+- [Factorial.java](recursion/Factorial.java)
+- [Fibonacci.java](recursion/Fibonacci.java)
+- [TowerOfHanoi.java](recursion/TowerOfHanoi.java)
+
 ## Numbers
 
 Programs related to numerical computations.
@@ -51,13 +59,7 @@ Algorithms for finding elements in a list.
 - [BinarySearch.java](searching/BinarySearch.java)
 - [LinearSearch.java](searching/LinearSearch.java)
 
-## Recursion
 
-Functions that call themselves to solve problems.
-
-- [Factorial.java](recursion/Factorial.java)
-- [Fibonacci.java](recursion/Fibonacci.java)
-- [TowerOfHanoi.java](recursion/TowerOfHanoi.java)
 
 ## Strings
 
