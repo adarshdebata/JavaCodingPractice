@@ -1,3 +1,6 @@
+// Provides an alternative to using multiple if-else statements, making the code cleaner and easier to maintain.
+
+//for this we take input  a number from 1-7 and then  finde respective  day;
 import java.util.Scanner;
 
 public class SwitchCaseExample {
