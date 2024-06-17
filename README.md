@@ -19,7 +19,8 @@ Basic Java programming concepts including syntax, control structures, and data t
 - [HelloWorld.java](fundamentals/HelloWorld.java)
 - [UserInput.java](fundamentals/UserInput.java)
 - [UserInputBufferedReader.java](fundamentals/UserInputBufferedReader.java)
-<!-- - [IfElseExample.java](fundamentals/IfElseExample.java)
+- [IfElseExample.java](fundamentals/IfElseExample.java)
+<!-- 
 - [SwitchCaseExample.java](fundamentals/SwitchCaseExample.java)
 - [ForLoopExample.java](fundamentals/ForLoopExample.java)
 - [WhileLoopExample.java](fundamentals/WhileLoopExample.java)
