@@ -15,8 +15,8 @@ public class WhileLoopExample {
 }
     //after iteration i =6 ;
 */
-import java.util.Scanner;
 public class WhileLoopExample {
+    import java.util.Scanner;
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = 0;
