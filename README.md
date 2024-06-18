@@ -21,13 +21,13 @@ Basic Java programming concepts including syntax, control structures, and data t
 - [UserInputBufferedReader.java](fundamentals/UserInputBufferedReader.java)
 - [IfElseExample.java](fundamentals/IfElseExample.java)
 - [SwitchCaseExample.java](fundamentals/SwitchCaseExample.java)
-- [ForLoopExample.java](fundamentals/ForLoopExample.java)
-<!-- 
-- [WhileLoopExample.java](fundamentals/WhileLoopExample.java)
-- [DoWhileLoopExample.java](fundamentals/DoWhileLoopExample.java)
-- [ArrayExample.java](fundamentals/ArrayExample.java)
+- Loops:
+   - [ForLoopExample.java](fundamentals/loops/ForLoopExample.java) 
+   - [WhileLoopExample.java](fundamentals/loops/WhileLoopExample.java) 
+   - [DoWhileLoopExample.java](fundamentals/loops/DoWhileLoopExample.java) 
 - [MethodsExample.java](fundamentals/MethodsExample.java)
-- [ClassesAndObjects.java](fundamentals/ClassesAndObjects.java) -->
+- [ClassesAndObjects.java](fundamentals/ClassesAndObjects.java) 
+
 ## Recursion
 
 Functions that call themselves to solve problems.
