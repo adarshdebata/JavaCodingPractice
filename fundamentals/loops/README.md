@@ -38,7 +38,7 @@ while (condition) {
 ```
 
 - **Condition**: Checked before each iteration. If `false`, the loop terminates.
-- **Example**: [click-me](/fundamentals/loops/WhileLoopExample)
+- **Example**: [click-me](/fundamentals/loops/WhileLoopExample.java)
 
 ## Do-While Loop
 
