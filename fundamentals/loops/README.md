@@ -1,6 +1,3 @@
-Certainly! Below is a detailed `README.md` file that explains loops in Java, covering `for`, `while`, and `do-while` loops, including theory, syntax, examples, and a comparison table. You can include this in your Git repository to provide comprehensive information about loops in Java.
-
-```markdown
 # Loops in Java
 
 In Java, loops are used to execute a block of code repeatedly as long as a specified condition is met. There are three types of loops: `for`, `while`, and `do-while`. Each type has its own use cases and syntax.
