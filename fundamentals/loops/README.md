@@ -54,7 +54,7 @@ do {
 
 - **Execution**: The code block is executed first.
 - **Condition**: Checked after each iteration. If `false`, the loop terminates.
-- **Example**: [click-me](/fundamentals/loops/)
+- **Example**: [click-me](/fundamentals/loops/DoWhileExample.java)
 
 
 ## Comparison Table
