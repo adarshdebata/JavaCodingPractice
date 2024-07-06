@@ -1,1 +1,0 @@
-Updated structure for Java course repository
