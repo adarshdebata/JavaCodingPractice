@@ -4,21 +4,21 @@
 This section covers various fundamental concepts related to number handling in Java. Each concept is explained with code examples, making it easier for you to understand and apply them in real-world scenarios and during interviews.
 
 ## Topics Covered
-1. **Armstrong Number**
-2. **Even/Odd Checker**
-3. **Prime Number Checker**
-4. **Palindrome Number Checker**
-5. **Reverse Number**
-6. **Perfect Number**
-7. **Sum of Digits**
-8. **LCM (Least Common Multiple)**
-9. **GCD (Greatest Common Divisor)**
-10. **Binary Representation**
-11. **Random Number Generation**
+- **[Armstrong Number](#1-armstrong-number)**
+- **[Even/Odd Checker](#2-evenodd-checker)**
+- **[Prime Number Checker](#3-prime-number-checker)**
+- **[Palindrome Number Checker](#4-palindrome-number-checker)**
+- **[Reverse Number](#5-reverse-number)**
+- **[Perfect Number](#6-perfect-number)**
+- **[Sum of Digits](#7-sum-of-digits)**
+- **[LCM (Least Common Multiple)](#8-lcm-least-common-multiple)**
+- **[GCD (Greatest Common Divisor)](#9-gcd-greatest-common-divisor)**
+- **[Binary Representation](#10-binary-representation)**
+- **[Random Number Generation](#11-random-number-generation)**
 
 ## 1. Armstrong Number
 ### Explanation
-An Armstrong number (also known as a narcissistic number) is a number that is equal to the sum of its own digits each raised to the power of the number of digits.
+An Armstrong number (also known as a narcissistic number) is a number that is equal to the sum of its own digits each raised to the power of the Thrice.
 ### Example
 - **File:** [ArmstrongNumber.java](ArmstrongNumber.java)
 - **Usage:** `153` is an Armstrong number because \(1^3 + 5^3 + 3^3 = 153\).
