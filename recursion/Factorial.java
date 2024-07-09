@@ -1,4 +1,4 @@
-package recursion;//Ignore this if you don't under stand nut better if you get a read about it
+package recursion;//Ignore this if you don't understand but better if you get a read about it
 public class Factorial {
     
     long factorial (long num){
