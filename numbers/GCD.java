@@ -1,10 +1,10 @@
 /**
- * This class provides a method to calculate the Greatest Common Divisor (GCD) of two numbers using the Euclidean algorithm.
- * The GCD/HCF of two numbers is the largest number that divides both of them without leaving a remainder.
+  - This class provides a method to calculate the Greatest Common Divisor (GCD) of two numbers using the Euclidean algorithm.
+  - The GCD/HCF of two numbers is the largest number that divides both of them without leaving a remainder.
  */
 public class GCD {
 
-    /*
+    /** 
       Calculates the GCD of two numbers.
       @param a the first number
       @param b the second number
