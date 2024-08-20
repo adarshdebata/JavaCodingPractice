@@ -4,7 +4,7 @@
  */
 public class LCM {
 
-    /*
+    /**
      Calculates the LCM of two numbers.
      @param a the first number
       @param b the second number
@@ -14,7 +14,7 @@ public class LCM {
         return (a * b) / calculateGCD(a, b);
     }
 
-    /*
+    /**
       Calculates the GCD of two numbers using the Euclidean algorithm.
       @param a the first number
       @param b the second number
