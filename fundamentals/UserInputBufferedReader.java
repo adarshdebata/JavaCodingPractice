@@ -1,8 +1,10 @@
 import java.io.BufferedReader;
-import java.io.IOException; //Purpose : We import necessary classes for input/output operations (BufferedReader, IOException, and InputStreamReader). why we import this
+import java.io.IOException; //Purpose : We import necessary classes for input/output operations (BufferedReader, IOException, and InputStreamReader). 
 import java.io.InputStreamReader;
-/*io.InputStreamReader; converts byte streams (like System.in, which is an InputStream) into character streams that can be read by BufferedReader.
- * It enables reading of textual data from byte-oriented sources, making it essential for handling input in a character-oriented way.
+
+/*
+    - io.InputStreamReader; converts byte streams (like System.in, which is an InputStream) into character streams that can be read by BufferedReader.
+    - It enables reading of textual data from byte-oriented sources, making it essential for handling input in a character-oriented way.
  */
 
 public class UserInputBufferedReader {
