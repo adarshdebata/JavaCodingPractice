@@ -1,4 +1,5 @@
 package loops;
+
 // The `do-while` loop is used when the block of code needs to be executed at least once.
 /*
 //  basic example
@@ -23,7 +24,8 @@ import java.util.Scanner;
 
 public class DoWhileExample {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner;
+        scanner = new Scanner(System.in);
         int secretNumber = 7; // The secret number to be guessed
         int guess;
 
@@ -44,4 +46,3 @@ public class DoWhileExample {
         scanner.close();
     }
 }
-
