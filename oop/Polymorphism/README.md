@@ -25,13 +25,17 @@ Java supports two types of polymorphism:
 ### Advantages of Polymorphism
 
 1. **Code Reusability**: You can reuse methods with the same name for different types of objects, reducing code redundancy.
+
 2. **Flexibility**: Polymorphism provides a way to perform a single action in different forms, depending on the object that invokes it.
+
 3. **Maintenance**: Polymorphism simplifies code maintenance because the behavior of objects can be changed by simply changing the class implementation, without altering the code that uses the objects.
+
 4. **Extensibility**: Adding new functionality is easier since new classes can easily integrate with existing ones using polymorphism.
 
 ### Disadvantages of Polymorphism
 
 1. **Performance Overhead**: Polymorphism can introduce some performance overhead due to the dynamic method dispatch at runtime.
+
 2. **Complexity**: The use of polymorphism can make the code more complex to understand and debug, especially when overridden methods are involved.
 
 ### Real-World Examples of Polymorphism
